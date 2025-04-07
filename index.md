@@ -6,3 +6,6 @@ Prueba de titulo usando H1
 ``` javascript
 console.log("Hello world");
 ```
+- [ ] Learn React
+- [ ] Learn Django
+- [ ] Create my first project
